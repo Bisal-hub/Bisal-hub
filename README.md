@@ -1,24 +1,84 @@
-### Hi there 👋
+## Hi, I'm Bisal Saeed <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> <img align="right" alt="Visitors" height="26px" src="https://komarev.com/ghpvc/?username=StwayneXG&color=000000&style=for-the-badge&label=VISTORS" />
 
-<h1 align="center">Hi 👋, I'm Bisal Saeed</h1>
-<h3 align="center">A passionate developer from Pakistan</h3>
+### 📱 Find me on Socials!
+
+<a href="https://www.linkedin.com/in/bisal-saeed-2aa7bb275/>
+  <img align="left" alt="Bisal's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.kaggle.com/bisalsaeed/">
+  <img align="left" alt="Bisal's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" />
+</a>
+<a href="mailto:2021ee151@student.uet.edu.pk">
+  <img align="left" alt="Bisal's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br/><br/>
+
+🎓 I am an undergraduate student with a Bachelor of Electrical Engineering (B.Eng.)  from University of Engineering and Technology (UET), Pakistan 🇵🇰.
+
+<img width="30%" align="right" alt="GIT" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+I have had experience in many areas over the years including but not limited to:
+- 🔎 RTL verification
+- 📜 Shell Scripting
+- 💻 Software Development
+- 👁️‍🗨️ Computer Vision
+- 🤖 Machine Learning
+- 📊 Data Science
+- 🎮 Game Development 
 
 
-- 🔭 I’m currently working on **Verification of Risc-v cores on Gem-5 simulator**
+## My Tech Stack
 
-- 🌱 I’m currently learning **Machine Learning and AI**
+### Programming Languages
 
-- 📫 How to reach me **2021ee151@student.uet.edu.pk**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bisalsaeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bisalsaeed" height="30" width="40" /></a>
+ <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Programming%20Languages/C.svg" alt=c height="50"/> &nbsp;
+ <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Programming%20Languages/Python.svg" alt=python height="50"/> &nbsp;
+ <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Programming%20Languages/Bash.svg" alt=bash height="50"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### Frameworks
+
+<b>Machine Learning</b> &nbsp;&nbsp;
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png"></code> &nbsp;
+<code><img width="40" height="50" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Tensorflow.svg"></code> &nbsp;
+<code><img width="70" height="50" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Scikit-learn.svg"></code>
+<br/><br/>
+
+
+<b>Image Processing</b> &nbsp;&nbsp;
+<code><img width="50" height="60" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Numpy.svg"></code> &nbsp;
+<code><img width="50" height="60" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/OpenCV.svg"></code> 
+<br/><br/>
+<b>Data Science</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img width="40" height="50" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Pandas.svg"></code> &nbsp;
+<code><img width="60" height="40" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Frameworks/Matplotlib.svg"></code>
+
+### Tools & Environment
+<p align="left">
+  
+  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/6eb20553f3ecfcb34878b68007201bf154bf5dcf/SVG%20Icons/Environments%20%26%20Tools/Anaconda.svg" alt=anaconda width="70" height="50"/> &nbsp;
+  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/1b7915a0b8c4eff45ad9bbf939327507763390d7/SVG%20Icons/Environments%20%26%20Tools/Jupyter.svg" alt=jupyter height="50"/> &nbsp; &nbsp;
+  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Environments%20%26%20Tools/Git.svg" alt=git height="50"/> &nbsp; &nbsp;
+  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Environments%20%26%20Tools/VS%20Code.svg" alt=vscode height="50"/> &nbsp; &nbsp;
+  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Environments%20%26%20Tools/Ubuntu.svg" alt=ubuntu height="50"/> &nbsp; &nbsp;
+  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Environments%20%26%20Tools/Linux.svg" alt=linux height="50"/> &nbsp; &nbsp;
+  <img style="margin: auto;" src="https://github.com/StwayneXG/StwayneXG/blob/3cd848b0cc25c02eafb13e89eeb3302b073ec279/SVG%20Icons/Environments%20%26%20Tools/Windows.svg" alt=windows height="50"/> &nbsp;
+<p/>
+ 
+## ⚡ Github Stats
 <!--
-**Bisal-hub/Bisal-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Irtaza's github stats](https://github-readme-stats.vercel.app/api?username=StwayneXG&count_private=true&theme=tokyonight&hide=contribs,prs) &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StwayneXG&layout=compact&hide=html,ruby&theme=tokyonight)
+-->
+<p align="center">
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=StwayneXG&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs" align = "center"/>
+&nbsp;
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=StwayneXG&show_icons=true&locale=en&layout=compact&hide=html,ruby,Qmake&theme=tokyonight" align = "center"/>
+</p>
+
+<!--
+**StwayneXG/StwayneXG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
