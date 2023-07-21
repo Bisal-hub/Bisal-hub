@@ -2,7 +2,7 @@
 
 ### 📱 Find me on Socials!
 
-<a href="https://www.linkedin.com/in/bisal-saeed-2aa7bb275/>
+<a href="https://www.linkedin.com/in/bisal-saeed-2aa7bb275/">
   <img align="left" alt="Bisal's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/bisalsaeed/">
@@ -68,17 +68,17 @@ I have had experience in many areas over the years including but not limited to:
  
 ## ⚡ Github Stats
 <!--
-![Irtaza's github stats](https://github-readme-stats.vercel.app/api?username=StwayneXG&count_private=true&theme=tokyonight&hide=contribs,prs) &nbsp;
+![Bisal's github stats](https://github-readme-stats.vercel.app/api?username=StwayneXG&count_private=true&theme=tokyonight&hide=contribs,prs) &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StwayneXG&layout=compact&hide=html,ruby&theme=tokyonight)
 -->
 <p align="center">
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=StwayneXG&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs" align = "center"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=Bisal-hub&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs" align = "center"/>
 &nbsp;
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=StwayneXG&show_icons=true&locale=en&layout=compact&hide=html,ruby,Qmake&theme=tokyonight" align = "center"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bisal-hub&show_icons=true&locale=en&layout=compact&hide=html,ruby,Qmake&theme=tokyonight" align = "center"/>
 </p>
 
 <!--
-**StwayneXG/StwayneXG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bisal-hub/Bisal-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
